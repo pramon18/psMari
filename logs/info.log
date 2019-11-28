@@ -1,0 +1,36 @@
+Info: : 1490 mini-second(s) publishing element CapabilityPattern:LeanStartup[Lean\capabilitypatterns\LeanStartup_4920CF4C.html]
+Info: CapabilityPattern:LeanStartup: 1492 mini seconds publishing element
+Info: CapabilityPattern:LeanStartup: 348 mini seconds publishing process specific layout data
+Info: Task:analisar_progresso: 15 mini seconds publishing element
+Info: TaskDescriptor:analisar_progresso: 216 mini seconds publishing element
+Info: Role:equipe_startup: 52 mini seconds publishing element
+Info: RoleDescriptor:equipe_startup: 210 mini seconds publishing element
+Info: Outcome:novas_metricas: 299 mini seconds publishing element
+Info: WorkProductDescriptor:novas_metricas: 278 mini seconds publishing element
+Info: Artifact:resultado_da_checagem_de_metricas: 66 mini seconds publishing element
+Info: WorkProductDescriptor:resultado_da_checagem_de_metricas: 14 mini seconds publishing element
+Info: Outcome:decisao_de_pivotar: 15 mini seconds publishing element
+Info: WorkProductDescriptor:decisao_de_pivotar: 11 mini seconds publishing element
+Info: Task:checar_metricas_de_vaidade: 13 mini seconds publishing element
+Info: TaskDescriptor:checar_metricas_de_vaidade: 18 mini seconds publishing element
+Info: Role:equipe_startup: 38 mini seconds publishing element
+Info: RoleDescriptor:equipe_startup: 14 mini seconds publishing element
+Info: Artifact:feedback_dos_clientes: 89 mini seconds publishing element
+Info: WorkProductDescriptor:feedback_dos_clientes: 19 mini seconds publishing element
+Info: Task:apresentacao_aos_clientes: 13 mini seconds publishing element
+Info: TaskDescriptor:apresentacao_aos_clientes: 17 mini seconds publishing element
+Info: Role:equipe_startup: 68 mini seconds publishing element
+Info: RoleDescriptor:equipe_startup: 31 mini seconds publishing element
+Info: Outcome:mvp: 110 mini seconds publishing element
+Info: WorkProductDescriptor:mvp: 19 mini seconds publishing element
+Info: Task:construcao_do_mvp: 13 mini seconds publishing element
+Info: TaskDescriptor:construcao_do_mvp: 14 mini seconds publishing element
+Info: Artifact:discussao_mvp: 71 mini seconds publishing element
+Info: WorkProductDescriptor:discussao_mvp: 18 mini seconds publishing element
+Info: Task:idealizacao_do_mvp: 9 mini seconds publishing element
+Info: TaskDescriptor:idealizacao_do_mvp: 9 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 10 mini seconds publishing element
+Info: CustomCategory:Tasks: 7 mini seconds publishing element
+Info: CustomCategory:Roles: 6 mini seconds publishing element
+Info: CustomCategory:Work Products: 7 mini seconds publishing element
+Info: CustomCategory:Processes: 6 mini seconds publishing element
